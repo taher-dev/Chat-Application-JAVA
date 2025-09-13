@@ -9,9 +9,8 @@ This project demonstrates **real-time communication** where multiple clients can
 
 - [ Java Chat Application (Client-Server using Sockets)](#-java-chat-application-client-server-using-sockets)
   - [📋 Table of Contents](#-table-of-contents)
-  - [✨ Features](#-features)
   - [🎯 Overview](#-overview)
-  - [✨ Features](#-features-1)
+  - [✨ Features](#-features)
   - [🏗️ System Architecture](#️-system-architecture)
   - [🔧 Prerequisites](#-prerequisites)
   - [🚀 Getting Started](#-getting-started)
@@ -22,13 +21,6 @@ This project demonstrates **real-time communication** where multiple clients can
     - [💬 Chat Interface](#-chat-interface)
   - [👥 Contributors](#-contributors)
   - [🙏 Acknowledgments](#-acknowledgments)
-
-## ✨ Features
-
-- **Multithreaded Server**: The server can handle multiple clients at the same time.
-- **Real-Time Chat**: Enables simultaneous communication among all connected clients.
-- **Client-Server Architecture**: Uses TCP communication through Java Sockets.
-- **Graphical User Interface**: Provides a simple GUI for user interaction on the client side.
 
 ## 🎯 Overview
 
