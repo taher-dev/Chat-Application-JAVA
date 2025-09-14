@@ -1,6 +1,4 @@
-# <img src="preview-images/icon-bg.png" alt="App Icon" align="center"/>
-
-# Java Chat Application (Client-Server using Sockets)
+# <div align="center"><img src="preview-images/icon-bg.png" alt="App Icon"/></div> Java Chat Application (Client-Server using Sockets)
 
 A multithreaded **client-server chat application** built with **Java Socket Programming**.  
 This project demonstrates **real-time communication** where multiple clients can connect to a central server and exchange messages concurrently.
@@ -9,8 +7,7 @@ This project demonstrates **real-time communication** where multiple clients can
 
 ## 📋 Table of Contents
 
-- [](#)
-- [Java Chat Application (Client-Server using Sockets)](#java-chat-application-client-server-using-sockets)
+- [ Java Chat Application (Client-Server using Sockets)](#-java-chat-application-client-server-using-sockets)
   - [📋 Table of Contents](#-table-of-contents)
   - [🎯 Overview](#-overview)
   - [✨ Features](#-features)
