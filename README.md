@@ -1,4 +1,4 @@
-# <img src="preview-images/icon-bg.png" alt="App Icon" width="30"/> Java Chat Application (Client-Server using Sockets)
+# <img src="preview-images/icon-bg.png" alt="App Icon" style="display: block; margin: 20 auto;"/> Java Chat Application (Client-Server using Sockets)
 
 A multithreaded **client-server chat application** built with **Java Socket Programming**.  
 This project demonstrates **real-time communication** where multiple clients can connect to a central server and exchange messages concurrently.
